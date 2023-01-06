@@ -27,7 +27,7 @@
   <a href="#"><img alt="$" src="https://img.shields.io/badge/Django-FFD279?style=for-the-badge&logo=django&logoColor=white"/></a>
 ##
 
-### :rocket: Frameworks
+### :rocket: Tools
 
   <a href="#"><img alt="$" src="https://img.shields.io/badge/Unity-84C861?style=for-the-badge&logo=unity&logoColor=61DAFB"/></a>
   <a href="#"><img alt="$" src="https://img.shields.io/badge/Git-61C866?style=for-the-badge&logo=git&logoColor=white"/></a>
