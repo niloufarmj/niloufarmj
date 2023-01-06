@@ -1,4 +1,5 @@
-# Niloufar Moradi Jam
+<h1 align="center">Hay! I'm Niloufar 👋</h1>
+
 <p align="center">
   - computer engineering student - Shahid Beheshti University 
  </p>
@@ -65,6 +66,7 @@
  ### Git usage status:
  
   <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloufarmj&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloufarmj&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloufarmj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloufarmj&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="164em" src="https://github-readme-streak-stats.herokuapp.com?user=niloufarmj&theme=tokyonight"/>
   </div> 
