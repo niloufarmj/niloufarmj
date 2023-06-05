@@ -4,7 +4,7 @@
   - computer engineering student - Shahid Beheshti University 
  </p>
  <p align="center"> 
-  - game developer - Concealand
+  - game developer - Rhino
  </p>
  
 ##
