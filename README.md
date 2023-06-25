@@ -1,7 +1,7 @@
 <h1 align="center">Hay! I'm Niloufar 👋</h1>
 
 <p align="center">
-  - computer engineering student - Shahid Beheshti University 
+  - computer engineering graduate - Shahid Beheshti University 
  </p>
  <p align="center"> 
   - game developer - Rhino
