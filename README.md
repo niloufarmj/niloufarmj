@@ -15,7 +15,7 @@
 
 ##
 
- ### :rocket: Languages:
+ ### :rocket: Languages
  <div align="center">
   <a href="#"><img alt="$" src="https://img.shields.io/badge/C%2B%2B-49DAFA?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <a href="#"><img alt="$" src="https://img.shields.io/badge/Java-10C2EA?style=for-the-badge&logo=java&logoColor=white"/></a>
