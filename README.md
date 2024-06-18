@@ -4,7 +4,7 @@
   - computer engineering graduate - Shahid Beheshti University 
  </p>
  <p align="center"> 
-  - game developer - Rhino
+  - game developer - Psiket Academy
  </p>
  
 ##
