@@ -1,7 +1,10 @@
 <h1 align="center">Hay! I'm Niloufar 👋</h1>
 
 <p align="center">
-  - computer engineering graduate - Shahid Beheshti University 
+  - Interactive Media Student (Game Development Track) - FH University of Applied Sciences Upper Austria
+ </p>
+<p align="center">
+  - Computer Engineering Graduate - Shahid Beheshti University 
  </p>
  <p align="center"> 
   - game developer - Psiket Academy
