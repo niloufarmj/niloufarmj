@@ -1,7 +1,7 @@
 <h1 align="center">Hay! I'm Nili 👋 I'm a Creative Media Developer Specialized in Games, VR and AR</h1>
 
 <p align="center">
-  - Interactive Media Student (Game Development Track) - FH University of Applied Sciences Upper Austria
+  - Interactive Media Master Graduate (Game Development) - FH University of Applied Sciences Upper Austria
  </p>
 <p align="center">
   - Computer Engineering Graduate - Shahid Beheshti University 
